@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: A new phage display system using bacteriophage phi6
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Le Dang Kha
+    family-names: Huynh
+    email: le-dang-kha.huynh@students.mq.edu.au
+    affiliation: Macquarie University
